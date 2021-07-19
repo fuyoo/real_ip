@@ -1,0 +1,17 @@
+{
+    "name": "@fuyoo/real_ip",
+    "version": "1.0.4",
+    "description": "a packgage and cli-tool to get current real ip not 127.0.0.1 or localhost ...",
+    "main": "main.js",
+    "scripts": {},
+    "bin": {
+        "ip": "main.js"
+    },
+    "keywords": [
+        "ip",
+        "tool"
+    ],
+    "author": "fuyoo",
+    "license": "MIT",
+    "dependencies": {}
+}
