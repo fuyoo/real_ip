@@ -7,6 +7,10 @@
     "bin": {
         "ip": "main.js"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fuyoo/real_ip.git"
+    },
     "keywords": [
         "ip",
         "tool"
