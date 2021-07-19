@@ -25,7 +25,7 @@ version >= 12.0.0
     })
     ```
 
-## get ip principle?
+## principle
 
 this package use udpV4 to connect dns ip addresses.
 
