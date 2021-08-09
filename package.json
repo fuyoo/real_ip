@@ -1,6 +1,6 @@
 {
     "name": "@fuyoo/real_ip",
-    "version": "1.1.3",
+    "version": "1.1.4",
     "description": "a packgage and cli-tool to get current real ip not 127.0.0.1 or localhost ...",
     "main": "index.js",
     "scripts": {},
