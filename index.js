@@ -28,7 +28,7 @@ const [, , show] = process.argv
 /**
  * show？
  */
-if (show === 'true') {
+if (show === 'show') {
     fetch_ip().then(ip => {
             if (process.platform === 'win32') {
                 console.log('\u001b[32m' + ip + '\u001b[0m')
